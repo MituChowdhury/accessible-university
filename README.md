@@ -1,2 +1,2 @@
-# accessibility-framework
-a demo accessible website following WCAG guidelines for visually impaired people in Bangladesh.
+# accessibility-university-portal
+A demonstration of accessibility features following WCAG guidelines for people with visual impairments in Bangladesh.
